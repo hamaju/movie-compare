@@ -1,2 +1,2 @@
-# movie-comparison
-A movie comparison tool using OMDb API
+# movie-compare
+A movie comparison website using OMDb API
