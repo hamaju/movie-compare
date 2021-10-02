@@ -1,0 +1,47 @@
+.tutorial {
+  text-align: center;
+  margin: auto;
+}
+
+figure.image {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+figure .image img {
+  width: 8vw;
+}
+
+.notification {
+  margin-top: 1vh !important;
+}
+
+.results {
+  max-height: 50vh;
+  overflow-y: scroll;
+}
+
+.title .icon {
+  margin-left: 3vw;
+}
+
+.hero {
+  margin-bottom: 2vh;
+}
+
+.forms {
+  display: flex;
+  justify-content: space-around;
+}
+
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  height: 4vh;
+}
+
+.dropdown-item img {
+  height: 4vh;
+  margin-right: 2vw;
+}
